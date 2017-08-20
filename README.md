@@ -1,2 +1,2 @@
 # git_test
-1
+This is Alex's first git project!
